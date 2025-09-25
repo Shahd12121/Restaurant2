@@ -34,7 +34,8 @@ This website provides visitors with a beautiful interface to explore the restaur
 ## Installation
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/yourusername/delicious-restaurant.git
+git clone https://github.com/yourusername/delicious-restaurant.git
+
 2. Open the folder and locate the index.html file.
 3. Open index.html in your preferred browser to view the website.
 
